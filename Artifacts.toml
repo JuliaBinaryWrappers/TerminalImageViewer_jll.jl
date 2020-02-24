@@ -1,0 +1,216 @@
+[[TerminalImageViewer]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "11ddb155ba1b18cd503efc863a1e18892687ea46"
+libc = "musl"
+os = "linux"
+
+    [[TerminalImageViewer.download]]
+    sha256 = "7fc06a5e67005c0049b5440c5d36760c557dce2b4f459282207b7109c23ce62d"
+    url = "https://github.com/JuliaBinaryWrappers/TerminalImageViewer_jll.jl/releases/download/TerminalImageViewer-v1.0.0+0/TerminalImageViewer.v1.0.0.x86_64-linux-musl-cxx11.tar.gz"
+[[TerminalImageViewer]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ca034d1c0db2a4cbd2a1dfe6b648e2b8c512a0f2"
+libc = "musl"
+os = "linux"
+
+    [[TerminalImageViewer.download]]
+    sha256 = "3cb0932e67ef7e69745ee6f5921a3fde72e966f98bad6c9fcc72f74586c2458a"
+    url = "https://github.com/JuliaBinaryWrappers/TerminalImageViewer_jll.jl/releases/download/TerminalImageViewer-v1.0.0+0/TerminalImageViewer.v1.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[TerminalImageViewer]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bfd23f6feb20075b0ccfaaa53afb5fea8b7eae13"
+libc = "glibc"
+os = "linux"
+
+    [[TerminalImageViewer.download]]
+    sha256 = "20fffdeb32f1fabe1ff3b5487d184905be4e40b200dad8dadd7183ad4792ccbe"
+    url = "https://github.com/JuliaBinaryWrappers/TerminalImageViewer_jll.jl/releases/download/TerminalImageViewer-v1.0.0+0/TerminalImageViewer.v1.0.0.i686-linux-gnu-cxx03.tar.gz"
+[[TerminalImageViewer]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f8831aba94ef2835ef3f7af5f128b953ef9a2a97"
+libc = "musl"
+os = "linux"
+
+    [[TerminalImageViewer.download]]
+    sha256 = "f027f024c244b17abcb8a39bd283ada2b49ab6f2a12a16ebed6acd29da3c35bc"
+    url = "https://github.com/JuliaBinaryWrappers/TerminalImageViewer_jll.jl/releases/download/TerminalImageViewer-v1.0.0+0/TerminalImageViewer.v1.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[TerminalImageViewer]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "81b942fecaa5287d185294e018e7049ac48b1d6c"
+os = "macos"
+
+    [[TerminalImageViewer.download]]
+    sha256 = "75f69e0580025b7db0121d5f0575d513fe4995b72e505dfd6d641bc9b0dfefce"
+    url = "https://github.com/JuliaBinaryWrappers/TerminalImageViewer_jll.jl/releases/download/TerminalImageViewer-v1.0.0+0/TerminalImageViewer.v1.0.0.x86_64-apple-darwin14-cxx03.tar.gz"
+[[TerminalImageViewer]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5b0d5afd7a634b1acc3fe8235600173a43ad1897"
+libc = "musl"
+os = "linux"
+
+    [[TerminalImageViewer.download]]
+    sha256 = "567a9d4883c94db9f7e68ac734b7984583475cd7f37b2ab51d498f96da1d5c11"
+    url = "https://github.com/JuliaBinaryWrappers/TerminalImageViewer_jll.jl/releases/download/TerminalImageViewer-v1.0.0+0/TerminalImageViewer.v1.0.0.x86_64-linux-musl-cxx03.tar.gz"
+[[TerminalImageViewer]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e3e89a2821e6f7843ed35e18f21e78a45ed10d75"
+libc = "glibc"
+os = "linux"
+
+    [[TerminalImageViewer.download]]
+    sha256 = "d20e4063814daa80a292ad7d9fd5561efc696bd3fc677cf6438eeb24ee56f591"
+    url = "https://github.com/JuliaBinaryWrappers/TerminalImageViewer_jll.jl/releases/download/TerminalImageViewer-v1.0.0+0/TerminalImageViewer.v1.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[TerminalImageViewer]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "464d5bb7ce5d01234d90cfe71b4df0126a9dce78"
+libc = "musl"
+os = "linux"
+
+    [[TerminalImageViewer.download]]
+    sha256 = "4ed54d6814f018fc8ebe3782fb0e0e9326aa20ce32996a7ca1933bedbe38667b"
+    url = "https://github.com/JuliaBinaryWrappers/TerminalImageViewer_jll.jl/releases/download/TerminalImageViewer-v1.0.0+0/TerminalImageViewer.v1.0.0.aarch64-linux-musl-cxx11.tar.gz"
+[[TerminalImageViewer]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f8c382ff9abf2b6ce0d5fcf633ff43130e129524"
+os = "macos"
+
+    [[TerminalImageViewer.download]]
+    sha256 = "d59f10b764ffe22fbfec9664e907aebc5aa73ffa5974b5b76030562a6a06764a"
+    url = "https://github.com/JuliaBinaryWrappers/TerminalImageViewer_jll.jl/releases/download/TerminalImageViewer-v1.0.0+0/TerminalImageViewer.v1.0.0.x86_64-apple-darwin14-cxx11.tar.gz"
+[[TerminalImageViewer]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9f45e0cfe41a1ac829644c0b6dba04ee6f10f306"
+libc = "glibc"
+os = "linux"
+
+    [[TerminalImageViewer.download]]
+    sha256 = "20fce622c63254e64a70b8fd530bf62dec177c917b0dcfd5910bb68a9c7b9b5c"
+    url = "https://github.com/JuliaBinaryWrappers/TerminalImageViewer_jll.jl/releases/download/TerminalImageViewer-v1.0.0+0/TerminalImageViewer.v1.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[TerminalImageViewer]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "391a5ebf1ce3d2de98e76072f092e8a96472da51"
+libc = "glibc"
+os = "linux"
+
+    [[TerminalImageViewer.download]]
+    sha256 = "064b6b8059941ab37e93e20d713558024fcbba9807fd830043222aaef0cf10d1"
+    url = "https://github.com/JuliaBinaryWrappers/TerminalImageViewer_jll.jl/releases/download/TerminalImageViewer-v1.0.0+0/TerminalImageViewer.v1.0.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[TerminalImageViewer]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ba7e37bec30189118ee17bc462731625169b0134"
+libc = "glibc"
+os = "linux"
+
+    [[TerminalImageViewer.download]]
+    sha256 = "0799ea97b56f2485cc5025f1458d36ade244acff28e6f5c3a39528656b3b39c0"
+    url = "https://github.com/JuliaBinaryWrappers/TerminalImageViewer_jll.jl/releases/download/TerminalImageViewer-v1.0.0+0/TerminalImageViewer.v1.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[TerminalImageViewer]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "71181cfd4151ddef99e7d7df5a325f007bd58ddf"
+os = "freebsd"
+
+    [[TerminalImageViewer.download]]
+    sha256 = "c63e6139ddbbf0caf434117f492ecf38254b5170585f55c5d76f3df1d693172a"
+    url = "https://github.com/JuliaBinaryWrappers/TerminalImageViewer_jll.jl/releases/download/TerminalImageViewer-v1.0.0+0/TerminalImageViewer.v1.0.0.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
+[[TerminalImageViewer]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "150ddc3a174a6720b1473353f14f5b9ebcd6d6f1"
+libc = "musl"
+os = "linux"
+
+    [[TerminalImageViewer.download]]
+    sha256 = "1fbf4794f26bc03e9e16db88f8a7d4201ea953bef3f9509189901efac8316d82"
+    url = "https://github.com/JuliaBinaryWrappers/TerminalImageViewer_jll.jl/releases/download/TerminalImageViewer-v1.0.0+0/TerminalImageViewer.v1.0.0.i686-linux-musl-cxx03.tar.gz"
+[[TerminalImageViewer]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cc6159ba93131dcba29cf8f49b2776138adc24f6"
+libc = "glibc"
+os = "linux"
+
+    [[TerminalImageViewer.download]]
+    sha256 = "404e75f084bfc87cc8ce6f074b437228e7aa9a5e46fbe30f2744e4ec1b384a10"
+    url = "https://github.com/JuliaBinaryWrappers/TerminalImageViewer_jll.jl/releases/download/TerminalImageViewer-v1.0.0+0/TerminalImageViewer.v1.0.0.i686-linux-gnu-cxx11.tar.gz"
+[[TerminalImageViewer]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ce12751787905031012559e498cdf55bae2f12cd"
+libc = "musl"
+os = "linux"
+
+    [[TerminalImageViewer.download]]
+    sha256 = "2195ee2e6715ad3043f1fad89589c094767c7e30944e8b6fc4cd7fa7f36a0b7f"
+    url = "https://github.com/JuliaBinaryWrappers/TerminalImageViewer_jll.jl/releases/download/TerminalImageViewer-v1.0.0+0/TerminalImageViewer.v1.0.0.i686-linux-musl-cxx11.tar.gz"
+[[TerminalImageViewer]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f6220ca2afa57ddac0fe3da32f80ab0b3ee9c6e3"
+libc = "glibc"
+os = "linux"
+
+    [[TerminalImageViewer.download]]
+    sha256 = "562329ae2f3b6854f43c7b493af59b67f68d51f093a663ccc6af3d9575ec666f"
+    url = "https://github.com/JuliaBinaryWrappers/TerminalImageViewer_jll.jl/releases/download/TerminalImageViewer-v1.0.0+0/TerminalImageViewer.v1.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[TerminalImageViewer]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5b51abebe43f80665ce9df79fa565abfd38b8eac"
+libc = "musl"
+os = "linux"
+
+    [[TerminalImageViewer.download]]
+    sha256 = "93d2e85d38f28e74fdbbbb5030cd169161c64d2478011f77e4ec8ef7860bc0af"
+    url = "https://github.com/JuliaBinaryWrappers/TerminalImageViewer_jll.jl/releases/download/TerminalImageViewer-v1.0.0+0/TerminalImageViewer.v1.0.0.aarch64-linux-musl-cxx03.tar.gz"
+[[TerminalImageViewer]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "125aa319ec49f867b8a2991698fad03efc496957"
+libc = "glibc"
+os = "linux"
+
+    [[TerminalImageViewer.download]]
+    sha256 = "37b36bd8f08e227b2f9d1fb29aeea18b8fb99da34882f0bd76be256d17d962f0"
+    url = "https://github.com/JuliaBinaryWrappers/TerminalImageViewer_jll.jl/releases/download/TerminalImageViewer-v1.0.0+0/TerminalImageViewer.v1.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[TerminalImageViewer]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1d4ea03eb1ce3e966a5317c0964a0a9f0cc09e68"
+libc = "glibc"
+os = "linux"
+
+    [[TerminalImageViewer.download]]
+    sha256 = "5c941425f6623a8533825d88fb3cbc6551aa8fb1eb9860f48eee3d945bf9c36b"
+    url = "https://github.com/JuliaBinaryWrappers/TerminalImageViewer_jll.jl/releases/download/TerminalImageViewer-v1.0.0+0/TerminalImageViewer.v1.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[TerminalImageViewer]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "040e6f93c40c714a0c1d81a42e14261bf03a2ee0"
+os = "freebsd"
+
+    [[TerminalImageViewer.download]]
+    sha256 = "90e2d761dd6b2afc2777dcba807f6696e4e0e3be2dbb1b130ddb562daecbbc15"
+    url = "https://github.com/JuliaBinaryWrappers/TerminalImageViewer_jll.jl/releases/download/TerminalImageViewer-v1.0.0+0/TerminalImageViewer.v1.0.0.x86_64-unknown-freebsd11.1-cxx03.tar.gz"
+[[TerminalImageViewer]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cd4b85b1c1a32ec7f02bcf4770c5c1f80ac6990f"
+libc = "glibc"
+os = "linux"
+
+    [[TerminalImageViewer.download]]
+    sha256 = "17ec68c53bb35aa3ac3223e5ae030c63f01af038d68bcae75e53308d06c4e713"
+    url = "https://github.com/JuliaBinaryWrappers/TerminalImageViewer_jll.jl/releases/download/TerminalImageViewer-v1.0.0+0/TerminalImageViewer.v1.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
